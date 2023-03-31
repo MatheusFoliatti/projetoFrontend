@@ -4,7 +4,7 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-asx-font-smoothing: grayscale;
-  
+
 }
 
 :root{
@@ -15,4 +15,15 @@
   --color-line:#323238;
   
   font-size: 62.5%;
+}
+
+body {
+  background-color: var(--color-bg-dark);
+  color: var(--gray-light);
+}
+
+body, input, textarea, button{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
 }
