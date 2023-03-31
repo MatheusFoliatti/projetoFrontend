@@ -1,3 +1,10 @@
 export function App() {
-  return <h1>Hello World!</h1>;
+  return(
+    <section>
+      <h1>cover</h1>
+      <h1>avatar</h1>
+      <h1>Descrição/Nome</h1>
+      <h1>Stack</h1>
+    </section>
+  )
 }
