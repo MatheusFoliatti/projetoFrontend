@@ -4,7 +4,7 @@ import { CardPerson } from "./components/CardPerson";
 
 export function App() {
 
-  const listStack = ['JavaScript', 'React', 'ReactNative', 'HTML', 'CSS', 'HUAWEI']
+  const listStack = [{'JavaScript'}, {'React'}, {'ReactNative'}, {'HTML'}, {'CSS'}, {'HUAWEI'}]
 
   return (
     <div className={style.container}>
