@@ -13,7 +13,7 @@ export function App() {
       avatar='https://github.com/MatheusFoliatti.png' 
       name='Matheus Foliatti'
       office='Assistende de TI'
-      stack={listStack}
+      stacks={listStack}
       />
     </div>
   );
