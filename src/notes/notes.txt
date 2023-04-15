@@ -1,0 +1,23 @@
+//First Method
+// function CardPerson () {
+//  return <p>Componente</p>
+// }
+
+// export default CardPerson;
+
+//Second Method
+//  const CardPerson = () => {
+//   return <p>Componentes </p>
+// }
+
+// export default CardPerson
+
+// //Third Method
+
+// export default () => {
+//   return <p>Componentes</p>
+// }
+
+//Third and a half Method
+
+// export default () => ( <p>Componentes</p> )
